@@ -8,15 +8,15 @@ function Career() {
           <h1 className="text-[#005494] text-3xl uppercase font-semibold mb-4 absolute -top-[1.2rem] bg-white px-5">
             JOIN US NOW
           </h1>
-          <h1 className="px-0 md:px-5 mb-5 text-gray-700 text-justify text-sm md:text-base">
+          <h1 className="px-0 md:px-5 mb-5 text-gray-700 text-sm md:text-base">
             We are currently looking for team members to join us in the journey
             for success
           </h1>
           <ul>
-            <li className="px-0 md:px-5 mb-5 text-gray-700 text-justify text-sm md:text-base">
+            <li className="px-0 md:px-5 mb-5 text-gray-700 text-sm md:text-base">
               Position : Sales Executive
             </li>
-            <li className="px-0 md:px-5 mb-5 text-gray-700 text-justify text-sm md:text-base">
+            <li className="px-0 md:px-5 mb-5 text-gray-700 text-sm md:text-base">
               Resposibility :
               <ul className="list-disc mb-2 ml-4">
                 <li className="text-xs md:text-sm">
@@ -49,7 +49,7 @@ function Career() {
                 </li>
               </ul>
             </li>
-            <li className="px-0 md:px-5 mb-5 text-gray-700 text-justify text-sm md:text-base">
+            <li className="px-0 md:px-5 mb-5 text-gray-700 text-sm md:text-base">
               Requirements :
               <ul className="list-disc mb-2 ml-4">
                 <li className="text-xs md:text-sm">
@@ -74,7 +74,7 @@ function Career() {
               </ul>
             </li>
           </ul>
-          <p className="px-0 md:px-5 mb-5 text-gray-700 text-justify text-sm md:text-base">
+          <p className="px-0 md:px-5 mb-5 text-gray-700 text-sm md:text-base">
             All application can be email to smart.innosys@gmail.com
           </p>
         </div>
